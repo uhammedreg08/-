@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>Nizamov Muhamed</title>
+<style>
+body {
+  background: linear-gradient(to bottom, navy, purple);
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: flex-start; /* Изменено */
+  align-items: flex-start; /* Изменено */
+  color: white;
+  font-family: sans-serif;
+}
+</style>
+</head>
+<body>
+<h1>Привет, мир!</h1>
+</body>
+</html>
